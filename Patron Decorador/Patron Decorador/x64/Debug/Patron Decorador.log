@@ -1,0 +1,12 @@
+﻿  Hamburguesa.cpp
+  Lechuga.cpp
+  main.cpp
+  Queso.cpp
+  Tomate.cpp
+  Torta.cpp
+  Generando código...
+Lechuga.obj : error LNK2019: símbolo externo "public: virtual __cdecl Ingrediente::~Ingrediente(void)" (??1Ingrediente@@UEAA@XZ) sin resolver al que se hace referencia en la función "int `public: __cdecl Lechuga::Lechuga(class Combo *)'::`1'::dtor$0" (?dtor$0@?0???0Lechuga@@QEAA@PEAVCombo@@@Z@4HA)
+Queso.obj : error LNK2001: símbolo externo "public: virtual __cdecl Ingrediente::~Ingrediente(void)" (??1Ingrediente@@UEAA@XZ) sin resolver
+Tomate.obj : error LNK2001: símbolo externo "public: virtual __cdecl Ingrediente::~Ingrediente(void)" (??1Ingrediente@@UEAA@XZ) sin resolver
+Torta.obj : error LNK2001: símbolo externo "public: virtual __cdecl Ingrediente::~Ingrediente(void)" (??1Ingrediente@@UEAA@XZ) sin resolver
+C:\Users\ESCINF\source\repos\Patron Decorador\x64\Debug\Patron Decorador.exe : fatal error LNK1120: 1 externos sin resolver
