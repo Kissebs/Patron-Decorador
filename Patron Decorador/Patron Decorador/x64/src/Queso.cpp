@@ -18,9 +18,9 @@ string Queso::toString()
 {
 	stringstream s;
 
-	s << nombre << endl
-		<< precio << endl;
-	s << combo->toString() << endl;// Es aqui donde se da la accion recursiva
+	s << nombre
+    << precio<<endl
+    << combo->toString() << endl;// Es aqui donde se da la accion recursiva
 
 	return s.str();
 }

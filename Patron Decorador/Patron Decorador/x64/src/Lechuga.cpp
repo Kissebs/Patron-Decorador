@@ -18,8 +18,8 @@ string Lechuga::toString()
 {
 	stringstream s;
 
-	s << nombre << endl
-		<< precio<<endl;
+	s << nombre;
+    s<< precio<<endl;
 	s << combo->toString() << endl;// Es aqui donde se da la accion recursiva
 
 	return s.str();

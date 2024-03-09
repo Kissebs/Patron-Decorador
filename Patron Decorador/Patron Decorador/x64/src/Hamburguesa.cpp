@@ -18,7 +18,7 @@ string Hamburguesa::toString()
 {
 	stringstream s;
 
-	s << "Hamburguesa" << endl
+	s << "Hamburguesa"
 		<< costo() << endl;
 
 	return s.str();

@@ -73,7 +73,7 @@ int main() {
             break;
         case 5:
             cout << "Saliendo" << endl;
-            cout << "Hamburguesa: " << aux->costo() << " Colones" << endl;
+            cout << "Hamburguesa: " <<endl << aux->toString() <<endl <<aux->costo()<< " Colones" << endl;
             break;
         default:
             cout << "Opcion no valida" << endl;
