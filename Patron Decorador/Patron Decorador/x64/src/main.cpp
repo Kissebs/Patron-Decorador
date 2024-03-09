@@ -34,7 +34,7 @@ int main() {
 
 	Combo* torta = new Torta(queso);
 
-	Combo* lechuga = new Lechuga(torta);  //Este es el decorador
+	Combo* lechuga = new Lechuga( torta);  //Este es el decorador
 
 	Combo* ppio = lechuga;
 

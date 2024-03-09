@@ -8,7 +8,8 @@ protected:
 	Combo* combo;  //Puntero que enlaza las capas
 
 public:
-	virtual ~Ingrediente();
+    Ingrediente(Combo* combo_) : combo(combo_){}
+    virtual ~Ingrediente() = default;
 	virtual double costo()=0;
 	virtual string toString() = 0;
 

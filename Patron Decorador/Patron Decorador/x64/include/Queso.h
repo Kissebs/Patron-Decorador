@@ -1,7 +1,7 @@
 #pragma once
 #include "Ingrediente.h"
 
-class Queso :Ingrediente {
+class Queso :public Ingrediente {
 private:
 	string nombre;  //Donde pongo el nombre? Tarea Moral
 public:
