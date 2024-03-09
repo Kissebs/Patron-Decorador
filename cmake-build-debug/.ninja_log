@@ -1,0 +1,6 @@
+# ninja log v5
+1	455	7317014665377161	CMakeFiles/Patron_Decorador.dir/Patron_Decorador/Patron_Decorador/x64/src/Hamburguesa.cpp.obj	408e0c323052affb
+9	459	7317014665407189	CMakeFiles/Patron_Decorador.dir/Patron_Decorador/Patron_Decorador/x64/src/Lechuga.cpp.obj	fa5d0e1548a4c092
+13	470	7317014665537309	CMakeFiles/Patron_Decorador.dir/Patron_Decorador/Patron_Decorador/x64/src/Tomate.cpp.obj	ea05bb4727ad6b23
+17	499	7317014665807554	CMakeFiles/Patron_Decorador.dir/Patron_Decorador/Patron_Decorador/x64/src/Torta.cpp.obj	502c368f8cc15ba0
+22	499	7317014665807554	CMakeFiles/Patron_Decorador.dir/Patron_Decorador/Patron_Decorador/x64/src/Queso.cpp.obj	612f88548c1d5e2e
